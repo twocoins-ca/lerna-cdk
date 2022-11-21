@@ -1,6 +1,6 @@
 {
   "name": "stack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "description": "> TODO: description",
   "author": "Patrick Brandt <patrick@fullstory.com>",
@@ -8,7 +8,7 @@
   "license": "ISC",
   "main": "reactshoppe-api-stack.js",
   "dependencies": {
-    "reactshoppe-api": "^0.0.1",
-    "reactshoppe-database": "^0.0.1"
+    "reactshoppe-api": "^0.0.2",
+    "reactshoppe-database": "^0.0.2"
   }
 }
