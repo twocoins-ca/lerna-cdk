@@ -1,6 +1,6 @@
 {
   "name": "functions",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "description": "> TODO: description",
   "author": "Patrick Brandt <patrick@fullstory.com>",
@@ -9,7 +9,7 @@
   "main": "index.js",
   "dependencies": {
     "@types/uuid": "^8.0.0",
-    "reactshoppe-database": "^0.0.0",
+    "reactshoppe-database": "^0.0.1",
     "uuid": "^8.1.0"
   }
 }
